@@ -1,0 +1,14 @@
+# Compiled from doi:10.1101/gr.247122.118
+# Includes SNPs from 86 baboons (not including the pedigrees 
+# in the study) that are at low allelic frequency in the sample 
+# (i.e., non-singleton, < 2% AF) and in orthologous regions
+# of the genome. Ancestral allele inferred from rhesus macaque
+# multialignment (rheMac2).
+TYPE	COUNT
+C>A	208808
+C>G	218707
+T>A	159927
+T>C	713298
+T>G	190814
+CpG>TpG	342524
+CpH>TpH	816020

@@ -1,0 +1,27 @@
+###########################################################################
+Human 
+Reporting 95% confidence intervals
+=====================================================
+Paternal regression
+Mut rate per gen at pop. mean 32.0y: 1.09e-08 (1.00e-08, 1.18e-08)
+                (Intercept): 23.83 (2.00, 46.69)  *
+                        age: 1.23 (0.57, 1.88)  ***
+
+LRT p-val vs Gao et al. model: 2.87e-02
+=====================================================
+Maternal regression
+Mut rate per gen at pop. mean 28.2y: 2.49e-09 (2.10e-09, 2.89e-09)
+                (Intercept): -12.13 (-20.98, -2.65)  *
+                        age: 0.94 (0.62, 1.26)  ***
+
+LRT p-val vs Gao et al. model: 6.78e-04
+(recalculated removing mothers >= 40y)
+LRT p-val vs Gao et al. model: 1.24e-01
+Exponential AIC: 78.25
+     Linear AIC: 86.10
+----------------------
+      Delta AIC: -7.85
+=====================================================
+= Using paternal and maternal ages of 32.0 and 28.2 =
+Sex-averaged mutation rate per  gen: 1.34e-08 (1.25e-08, 1.44e-08)
+Sex-averaged mutation rate per year: 4.46e-10 (4.14e-10, 4.78e-10)

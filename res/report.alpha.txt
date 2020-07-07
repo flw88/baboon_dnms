@@ -1,0 +1,49 @@
+========== ALPHA STATISTICS ==========
+### Using all dnms ###
+
+Phase Table:
+    Pat Mat
+hum 172  43
+bab  45  10
+
+Alpha:
+    sp       lwr       upr   a      prop
+1: bab 0.6956338 0.9285714 4.5 0.8181818
+2: hum 0.7441804 0.8485227 4.0 0.8000000
+P-value for sp. diff = 0.910 
+
+### Using noncpg dnms ###
+
+Phase Table:
+    Pat Mat
+hum 148  38
+bab  38   8
+
+Alpha:
+    sp       lwr       upr        a      prop
+1: bab 0.7173137 0.9268293 4.750000 0.8260870
+2: hum 0.7313929 0.8535700 3.894737 0.7956989
+P-value for sp. diff = 0.798 
+
+
+====================================================
+Linear regr. of alpha vs. pat. age after removing
+Pan troglodytes (Tatsumoto et al.),
+Homo sapiens (Jónsson et al.):
+                Estimate  Std. Error   t value     Pr(>|t|)
+(Intercept)  0.695651232 0.030648111 22.698013 8.158749e-08
+Mean_Pat_Age 0.003387844 0.001704887  1.987137 8.725889e-02
+
+    (Intercept)   7.0e-01 (6.2e-01 -- 7.7e-01)   8.2e-08
+   Mean_Pat_Age   3.4e-03 (-6.4e-04 -- 7.4e-03)   8.7e-02
+
+====================================================
+Linear regr. of alpha vs. pat. age after removing
+Pan troglodytes (Besenbacher et al.),
+Homo sapiens (Jónsson et al.):
+                Estimate  Std. Error   t value     Pr(>|t|)
+(Intercept)  0.692895595 0.028612572 24.216474 5.211522e-08
+Mean_Pat_Age 0.003008222 0.001538472  1.955331 9.144656e-02
+
+    (Intercept)   6.9e-01 (6.3e-01 -- 7.6e-01)   5.2e-08
+   Mean_Pat_Age   3.0e-03 (-6.3e-04 -- 6.6e-03)   9.1e-02

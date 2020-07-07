@@ -1,0 +1,6 @@
+restrict.ortho	remove.cpgs	use.postpub	use.bamsurg.fnr	midfix
+0	0	0	0	all
+1	0	0	0	ortho
+1	0	0	1	ortho.bamsurg
+1	1	0	0	ortho.nocpg
+1	0	1	0	ortho.postpub

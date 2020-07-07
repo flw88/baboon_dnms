@@ -1,0 +1,11 @@
+# Compiled from doi:10.1038/nature24018
+# Includes only DNMs ascertained in three-generation
+# pedigrees and arising in orthologous regions of the genome
+TYPE	COUNT
+C>A	692
+C>G	862
+T>A	629
+T>C	2331
+T>G	640
+CpG>TpG	1478
+CpH>TpH	2263

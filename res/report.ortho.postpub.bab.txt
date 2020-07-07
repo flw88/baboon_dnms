@@ -1,0 +1,21 @@
+###########################################################################
+Baboon 
+Reporting 95% confidence intervals
+=====================================================
+Paternal regression
+Mut rate per gen at pop. mean 5.3y: 4.61e-09 (4.09e-09, 5.22e-09)
+                (Intercept): 23.00 (17.01, 29.36)  ***
+                        age: 0.15 (-0.97, 1.32)   
+
+LRT p-val vs Gao et al. model: 1.96e-02
+=====================================================
+Maternal regression
+Mut rate per gen at pop. mean 5.7y: 1.13e-09 (8.07e-10, 1.44e-09)
+                (Intercept): 2.70 (0.84, 5.50)  *
+                        age: 0.55 (0.03, 1.02)  *
+
+LRT p-val vs Gao et al. model: 2.18e-01
+=====================================================
+= Using paternal and maternal ages of 5.3 and 5.7 =
+Sex-averaged mutation rate per  gen: 5.74e-09 (5.12e-09, 6.37e-09)
+Sex-averaged mutation rate per year: 1.04e-09 (9.32e-10, 1.16e-09)

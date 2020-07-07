@@ -1,0 +1,55 @@
+############## Likelihood Ratio Testing Results ##############
+Using paternal age effect: 1.35 
+Quantiles of LR test p-values over range of intercept values
+        2.5%         50%       97.5%
+    4.56e-02    4.56e-02    4.56e-02
+LR test p-value = 4.56e-02 
+Using paternal age effect: 1.96 
+Quantiles of LR test p-values over range of intercept values
+        2.5%         50%       97.5%
+    2.76e-03    2.76e-03    2.76e-03
+LR test p-value = 2.76e-03 
+
+########################################################
+LR Test of lower alpha in baboons:
+Quantiles of p-values over range of start values
+        2.5%         50%       97.5%
+    3.84e-08    3.84e-08    3.84e-08
+
+########################################################
+Testing for species effect on slope (age effect) and intercept in each sex...
+
+==========================
+Using years since conception
+
+P-value for fixed slope parameter(s) vs. free model (Paternal DNMs): 1.89e-01
+P-value for fixed   int parameter(s) vs. free model (Paternal DNMs): 8.65e-01
+P-value for fixed  both parameter(s) vs. free model (Paternal DNMs): 3.84e-02
+P-value for fixed slope parameter(s) vs. free model (Maternal DNMs): 3.72e-01
+P-value for fixed   int parameter(s) vs. free model (Maternal DNMs): 5.81e-02
+P-value for fixed  both parameter(s) vs. free model (Maternal DNMs): 1.02e-01
+
+########################################################
+Testing for species effect on slope (age effect) and intercept in each sex...
+
+==========================
+Using years since puberty
+
+P-value for fixed slope parameter(s) vs. free model (Paternal DNMs): 1.89e-01
+P-value for fixed   int parameter(s) vs. free model (Paternal DNMs): 4.71e-02
+P-value for fixed  both parameter(s) vs. free model (Paternal DNMs): 3.90e-05
+P-value for fixed slope parameter(s) vs. free model (Maternal DNMs): 3.72e-01
+P-value for fixed   int parameter(s) vs. free model (Maternal DNMs): 4.19e-01
+P-value for fixed  both parameter(s) vs. free model (Maternal DNMs): 6.48e-01
+
+########################################################
+LR Test of 2.8-fold faster mutation rate in human mothers:
+Quantiles of p-values over range of start values
+        2.5%         50%       97.5%
+    2.63e-01    2.63e-01    2.63e-01
+
+########################################################
+LR Test of 2.4-fold more DNMs at puberty in human fathers:
+Quantiles of p-values over range of start values
+        2.5%         50%       97.5%
+    1.16e-01    1.16e-01    1.16e-01

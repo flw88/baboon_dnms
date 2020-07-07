@@ -1,0 +1,17 @@
+###########################################################################
+Human 
+Reporting 95% confidence intervals
+=====================================================
+Paternal regression
+Mut rate per gen at pop. mean 32.0y: 8.88e-09 (8.11e-09, 9.61e-09)
+                (Intercept): 18.85 (-1.04, 39.71)  *
+                        age: 1.01 (0.41, 1.61)  ***
+=====================================================
+Maternal regression
+Mut rate per gen at pop. mean 28.2y: 1.99e-09 (1.62e-09, 2.34e-09)
+                (Intercept): -8.91 (-16.74, -0.35)  *
+                        age: 0.72 (0.44, 1.01)  ***
+=====================================================
+= Using paternal and maternal ages of 32.0 and 28.2 =
+Sex-averaged mutation rate per  gen: 1.09e-08 (9.99e-09, 1.17e-08)
+Sex-averaged mutation rate per year: 3.61e-10 (3.32e-10, 3.89e-10)
